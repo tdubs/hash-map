@@ -27,7 +27,7 @@ exit;
 }
 
 print "[+] Opening Pass File $pass_file\n";
-print "[+] Opening Original Hash File $pass_file\n";
+print "[+] Opening Original Hash File $hash_file\n";
 
 $obj = Text::CSV::Hashify->new( {
  sep_char => ':',
