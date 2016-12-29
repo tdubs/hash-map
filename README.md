@@ -2,7 +2,7 @@
 
  A very simple tool to map cracked passwords back
  to usernames after you've cracked them. The package
- includes two example files as examples. Be sure to check
+ includes two sample files (cracked.txt and hashes.txt) as examples. Be sure to check
  them as the formats must be the same!
  Special note, you must specify the proper heading for the
  cracked password file. Heading is:
