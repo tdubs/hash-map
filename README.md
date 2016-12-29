@@ -13,7 +13,7 @@ cpan Text::CSV::Hashify
 
 # Example Usage:
 ```
-user@linux:/# ././hash.map.pl cracked.txt hashes.txt 
+user@linux:/# ./hash.map.pl cracked.txt hashes.txt 
 [+] Opening Pass File cracked.txt
 [+] Opening Original Hash File cracked.txt
 user1:11111,userpass1
